@@ -1,0 +1,2 @@
+netprojclienttest.Input
+netprojclienttest.NetProjClientTest
